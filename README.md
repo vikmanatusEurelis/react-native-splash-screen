@@ -11,6 +11,11 @@
 
 A splash screen API for react-native which can programatically hide and show the splash screen. Works on iOS and Android.
 
+## 🗒 Notes
+
+Please note that this version is only a fork with a small fix to make the library compatible with `react-native >= 0.64`
+
+Link of original thread is available [here](https://github.com/crazycodeboy/react-native-splash-screen/pull/521) 
 ## Content
 
 - [Changes](#changes)
